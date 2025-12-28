@@ -1,8 +1,8 @@
 # 🧮 Scientific Calculator (Java Swing)
 
 A **modern Scientific Calculator desktop application** built using **Java Swing**.  
-This project focuses on **clean UI design**, **human-readable code**, and **accurate mathematical computation**.  
-It is suitable for **academic projects**, **learning Java GUI development**, and **portfolio showcasing**.
+This project focuses on **accurate mathematical computation**.  
+It is suitable for **learning Java GUI development**.
 
 ---
 
@@ -71,7 +71,10 @@ The project is implemented using **pure Java Swing**, without any external libra
 
 ## 👤 Author
 Emtiaz Ahmed Emon
+
 Department of Information & Communication Engineering
+
 Noakhali Science and Technology University
+
 
 
