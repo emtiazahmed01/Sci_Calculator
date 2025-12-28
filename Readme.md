@@ -72,9 +72,6 @@ Scientific-Calculator/
 ├── Calculator.java
 ├── README.md
 
-
-> The entire application is intentionally kept in a **single Java file** for simplicity and easier understanding.
-
 ---
 
 ## ▶ How to Run the Project
@@ -101,7 +98,7 @@ java Calculator
 ## 📸 Screenshots (Optional)
 You may add screenshots to enhance presentation.
 
-Example structure:
+## Example structure:
 
 screenshots/
  ├── calculator-ui.png
@@ -110,7 +107,8 @@ Then reference them here:
 
 ![Calculator UI](screenshots/calculator-ui.png)
 
-👤 Author
+## 👤 Author
 Your Name
 Department of Information & Communication Engineering
+
 Noakhali Science and Technology University
