@@ -58,20 +58,20 @@ The project is implemented using **pure Java Swing**, without any external libra
 
 ## 🛠 Technologies Used
 
-- **Java (JDK 8 or later)**
+- **Java (JDK 8)**
 - **Java Swing**
-- **AWT Event Handling**
-- **Eclipse IDE / IntelliJ IDEA / NetBeans**
+- **Eclipse IDE**
 
 ---
 
 ## 📸 Screenshots
 
-![Calculator UI](screenshots/calculator-ui.png)
+(<img width="507" height="807" alt="image" src="https://github.com/user-attachments/assets/18f9dee7-2720-470b-b658-2d5df2379714" />
+)
 
 ## 👤 Author
-Your Name
+Emtiaz Ahmed Emon
 Department of Information & Communication Engineering
-
 Noakhali Science and Technology University
+
 
