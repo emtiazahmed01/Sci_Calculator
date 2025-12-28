@@ -65,45 +65,7 @@ The project is implemented using **pure Java Swing**, without any external libra
 
 ---
 
-## 📂 Project Structure
-
-Scientific-Calculator/
-│
-├── Calculator.java
-├── README.md
-
----
-
-## ▶ How to Run the Project
-
-### 1️⃣ Prerequisites
-- Java **JDK 8 or higher** installed
-- Any Java IDE (Eclipse, IntelliJ IDEA, NetBeans)
-
-Check Java installation:
-```bash
-java -version
-2️⃣ Running the Application
-▶ Using an IDE
-Clone the repository:
-
-git clone https://github.com/your-username/scientific-calculator-java.git
-Open the project in your IDE
-
-Run Calculator.java as a Java Application
-
-▶ Using Command Line
-javac Calculator.java
-java Calculator
-## 📸 Screenshots (Optional)
-You may add screenshots to enhance presentation.
-
-## Example structure:
-
-screenshots/
- ├── calculator-ui.png
- ├── scientific-functions.png
-Then reference them here:
+## 📸 Screenshots
 
 ![Calculator UI](screenshots/calculator-ui.png)
 
@@ -112,3 +74,4 @@ Your Name
 Department of Information & Communication Engineering
 
 Noakhali Science and Technology University
+
